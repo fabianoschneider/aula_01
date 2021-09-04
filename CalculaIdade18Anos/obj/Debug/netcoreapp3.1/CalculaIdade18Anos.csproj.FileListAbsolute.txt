@@ -1,0 +1,13 @@
+C:\teste\CalculaIdade18Anos\CalculaIdade18Anos\obj\Debug\netcoreapp3.1\CalculaIdade18Anos.csprojAssemblyReference.cache
+C:\teste\CalculaIdade18Anos\CalculaIdade18Anos\obj\Debug\netcoreapp3.1\CalculaIdade18Anos.AssemblyInfoInputs.cache
+C:\teste\CalculaIdade18Anos\CalculaIdade18Anos\obj\Debug\netcoreapp3.1\CalculaIdade18Anos.AssemblyInfo.cs
+C:\teste\CalculaIdade18Anos\CalculaIdade18Anos\obj\Debug\netcoreapp3.1\CalculaIdade18Anos.csproj.CoreCompileInputs.cache
+C:\teste\CalculaIdade18Anos\CalculaIdade18Anos\bin\Debug\netcoreapp3.1\CalculaIdade18Anos.exe
+C:\teste\CalculaIdade18Anos\CalculaIdade18Anos\bin\Debug\netcoreapp3.1\CalculaIdade18Anos.deps.json
+C:\teste\CalculaIdade18Anos\CalculaIdade18Anos\bin\Debug\netcoreapp3.1\CalculaIdade18Anos.runtimeconfig.json
+C:\teste\CalculaIdade18Anos\CalculaIdade18Anos\bin\Debug\netcoreapp3.1\CalculaIdade18Anos.runtimeconfig.dev.json
+C:\teste\CalculaIdade18Anos\CalculaIdade18Anos\bin\Debug\netcoreapp3.1\CalculaIdade18Anos.dll
+C:\teste\CalculaIdade18Anos\CalculaIdade18Anos\bin\Debug\netcoreapp3.1\CalculaIdade18Anos.pdb
+C:\teste\CalculaIdade18Anos\CalculaIdade18Anos\obj\Debug\netcoreapp3.1\CalculaIdade18Anos.dll
+C:\teste\CalculaIdade18Anos\CalculaIdade18Anos\obj\Debug\netcoreapp3.1\CalculaIdade18Anos.pdb
+C:\teste\CalculaIdade18Anos\CalculaIdade18Anos\obj\Debug\netcoreapp3.1\CalculaIdade18Anos.genruntimeconfig.cache
